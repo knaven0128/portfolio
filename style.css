@@ -44,7 +44,7 @@
 }
 
 
-.container {
+.container-about {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
@@ -55,12 +55,12 @@
     flex-wrap: wrap;
 }
 
-.column {
+.column-about {
     flex: 1;
     padding: 0 20px;
 }
 
-h2 {
+.column-about h2 {
     font-weight: bold;
     font-size: 24px;
     margin: 0;
@@ -68,7 +68,7 @@ h2 {
     color: #333;
 }
 
-strong {
+.info strong {
     font-weight: bold;
     color: #555;
 }
@@ -97,7 +97,7 @@ strong {
         text-indent: 0;
     }
 
-    .column {
+    .column-about {
         text-align: start;
         margin-top: 10%;
         flex-direction: column;
