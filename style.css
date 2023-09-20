@@ -564,7 +564,7 @@ label {
 .contact-btn {
     padding: 5px 10px;
     color: var(--light-text-color);
-    background: none;
+    background: #fff;
     border: 2px solid var(--light-text-color);
     transition: all 1s;
 }
@@ -797,7 +797,7 @@ li span:hover:after {
 
     #left-hero {
         padding-left: 30px;
-        ;
+    
     }
 
     #work-row {
